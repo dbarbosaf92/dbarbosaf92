@@ -8,7 +8,7 @@
 
 
 
-<h1>Hi 👋, I'm Danilo Barbosa</h1>
+<h1>Hey 👋, Soy Danilo Barbosa</h1>
 
 <p>Soy un Desarrollador web full stack apasionado. Mi formación abarca una variedad de tecnologías y metodologías, permitiéndome trabajar de manera efectiva en equipos multidisciplinarios. Siempre estoy en busca de oportunidades para aprender y crecer en el dinámico campo del desarrollo web.</p>
 
