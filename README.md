@@ -55,9 +55,7 @@
 </p>
 </br>
 
-<a href="https://github.com/dbarbosaf92" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=dbarbosaf92&layout=compact&langs_count=8&bg_color=ffffff#gh-light-mode-only" />
-</a>
+
 
 <h2>📪 Contact me</h2>
 <p>
